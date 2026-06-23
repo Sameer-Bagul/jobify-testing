@@ -1,0 +1,17 @@
+{
+  "firstName": "Aarav",
+  "lastName": "Patel",
+  "email": "aarav.patel@example.com",
+  "mobile": "+91 9876543210",
+  "address": "123, Tech Park, Andheri East, Mumbai, Maharashtra 400069",
+  "location": "Mumbai, India",
+  "phoneType": "Mobile",
+  "college": "IIT Bombay",
+  "specialization": "Computer Science & Engineering",
+  "degree": "B.Tech",
+  "gradYear": "2023",
+  "company": "Tata Consultancy Services (TCS)",
+  "designation": "Software Engineer",
+  "duration": "1 year 2 months",
+  "skills": "React, Node.js, Playwright, Tailwind"
+}
