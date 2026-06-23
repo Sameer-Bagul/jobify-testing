@@ -1,0 +1,14 @@
+
+--- Automation Run Started: 2026-06-23T05:41:29.662Z ---
+
+Running 1 test using 1 worker
+
+[1/1] [chromium] › tests/job-application.spec.js:5:1 › Jobify complete job application flow
+[chromium] › tests/job-application.spec.js:5:1 › Jobify complete job application flow
+Dummy email sent! Message ID: <3cd3e6a8-a1b9-936f-a84f-dba523e104f4@jobify.com>
+
+View your dummy email here: https://ethereal.email/message/ajocnKtu2Pi76HVBajocoOh.E5oJRCOkAAAAAd5l3gO2fvGGosNH0kMlx4c
+
+  1 passed (24.5s)
+
+--- Automation Run Finished with Code: 0 ---
